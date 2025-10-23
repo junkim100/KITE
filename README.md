@@ -3,6 +3,7 @@
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![Dataset](https://img.shields.io/badge/🤗%20Dataset-KITE-yellow)](https://huggingface.co/datasets/junkim100/KITE)
+[![arXiv](https://img.shields.io/badge/arXiv-2510.15558-b31b1b.svg)](https://arxiv.org/abs/2510.15558)
 
 ## Overview
 
@@ -17,7 +18,6 @@ The instruction-following capabilities of LLMs are pivotal for numerous applicat
 - **KITE Korean**: 100 instructions created from scratch to address Korean-specific linguistic features
 - **Verifiable Instructions**: Rule-based evaluation ensuring objective and measurable outcomes
 - **Cultural Awareness**: Instructions embedded with Korean cultural context
-- **Public Dataset**: Available on [Hugging Face](https://huggingface.co/datasets/junkim100/KITE)
 
 ## KITE Benchmark Structure
 
@@ -240,9 +240,3 @@ This project is licensed under the Apache License 2.0 - see the LICENSE file for
 ## Contact
 - **Author**: Dongjun Kim, Chanhee Park, Chanjun Park, Heuiseok Lim
 - For questions or feedback, please open an issue on GitHub or contact Dongjun Kim: junkim100@gmail.com
-
-## Links
-
-- 📊 [Dataset on Hugging Face](https://huggingface.co/datasets/junkim100/KITE)
-- 💻 [GitHub Repository](https://github.com/junkim100/KITE)
-- 📄 [Paper]([https://github.com/junkim100/KITE/blob/main/paper.tex](https://arxiv.org/abs/2510.15558))

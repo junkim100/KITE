@@ -208,11 +208,14 @@ korean_instruction_following_eval/
 If you use KITE in your research, please cite:
 
 ```bibtex
-@article{kim2024kite,
-  title={KITE: Korean Instruction-following Task Evaluation},
-  author={Kim, Dongjun and others},
-  journal={arXiv preprint},
-  year={2024}
+@misc{kim2025kitebenchmarkevaluatingkorean,
+      title={KITE: A Benchmark for Evaluating Korean Instruction-Following Abilities in Large Language Models}, 
+      author={Dongjun Kim and Chanhee Park and Chanjun Park and Heuiseok Lim},
+      year={2025},
+      eprint={2510.15558},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2510.15558}, 
 }
 ```
 
@@ -235,13 +238,11 @@ This project is licensed under the Apache License 2.0 - see the LICENSE file for
 - Supported by the Korean NLP research community
 
 ## Contact
-
-For questions or feedback, please open an issue on GitHub or contact:
-- Dongjun Kim: junkim100@gmail.com
+- **Author**: Dongjun Kim, Chanhee Park, Chanjun Park, Heuiseok Lim
+- For questions or feedback, please open an issue on GitHub or contact Dongjun Kim: junkim100@gmail.com
 
 ## Links
 
 - 📊 [Dataset on Hugging Face](https://huggingface.co/datasets/junkim100/KITE)
 - 💻 [GitHub Repository](https://github.com/junkim100/KITE)
-- 📄 [Paper](https://github.com/junkim100/KITE/blob/main/paper.tex)
-
+- 📄 [Paper]([https://github.com/junkim100/KITE/blob/main/paper.tex](https://arxiv.org/abs/2510.15558))
